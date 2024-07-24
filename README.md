@@ -19,18 +19,9 @@ An ecommerce store built with MERN stack, and utilizes third party API's. This e
 
 ## Quickstart Guide
 
-To run this project locally you can use docker compose provided in the repository. Here is a guide on how to run this project locally using docker compose.
-
 Clone the repository
 ```
 $ git clone https://github.com/mohamedsamara/mern-ecommerce.git
-```
-
-Edit the dockercompose.yml file and update the the values for MONGO_URI and JWT_SECRET
-
-Then simply start the docker compose:
-```
-$ docker compose -f dockercompose.yml up
 ```
 
 ## Database Seed
