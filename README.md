@@ -18,11 +18,6 @@ An ecommerce store built with MERN stack, and utilizes third party API's. This e
   * Redux Thunk middleware to handle asynchronous redux actions
 
 ## Quickstart Guide
-Clone the repository
-```
-$ git clone https://github.com/mohamedsamara/mern-ecommerce.git
-```
-
 
 ## Database Seed
 
